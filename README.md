@@ -1,4 +1,16 @@
-# Mauro Data Mapper Docker
+# Mauro Data Mapper Docker - ARCHIVE
+
+> [!Caution]
+>
+> This repository is archived and no longer maintained.
+>
+> This code may contain known security vulnerabilities. It no longer receives security patches, dependency updates or technical support.
+> 
+> Do not use this repository for new development or production deployments.
+>
+> Historical reference : This repository remains available for historical reference and migration purposes only. Issues and pull requests are closed, and no further releases 
+> are planned.
+
 
 The entire system can be run up using this repository
 The following components are part of this system:
